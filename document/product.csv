@@ -1,0 +1,435 @@
+﻿Ord,#,N,Des
+1,RB11B110,20,Bích nối ống phun PPR DN 110 PN20
+2,RB12B125,10,Bích nối ống phun PPR DN 125 PN20
+3,RB144016,10,Bích nối ống phun PPR DN 140 PN16
+4,RB50RB50,60,Bích nối ống phun PPR DN 50 PN20
+5,RB63RB63,50,Bích nối ống phun PPR DN 63 PN20
+6,RB75RB75,50,Bích nối ống phun PPR DN 75 PN20
+7,RB90RB90,30,Bích nối ống phun PPR DN 90 PN20
+8,RDB1B110,20,Đầu bịt phun PPR DN 110 PN20
+9,RDB2DB20,600,Đầu bịt phun PPR DN 20 PN20
+10,RDB2DB25,360,Đầu bịt phun PPR DN 25 PN20
+11,RDB3DB32,400,Đầu bịt phun PPR DN 32 PN20
+12,RDB4DB40,300,Đầu bịt phun PPR DN 40 PN20
+13,RDB5DB50,120,Đầu bịt phun PPR DN 50 PN20
+14,RDB6DB63,100,Đầu bịt phun PPR DN 63 PN20
+15,RDB7DB75,50,Đầu bịt phun PPR DN 75 PN20
+16,RDB9DB90,30,Đầu bịt phun PPR DN 90 PN20
+17,RDKT1050,100,Đai khởi thủy hàn cắm phun PPR DN110-50 PN20
+18,RDKT4020,400,Đai khởi thủy hàn cắm phun PPR DN 40-20 PN20
+19,RDKT5020,400,Đai khởi thủy hàn cắm phun PPR DN 50 -20 PN20
+20,RDKT5025,320,Đai khởi thủy hàn cắm phun PPR DN 50-25 PN20
+21,RDKT6320,400,Đai khởi thủy hàn cắm phun PPR DN 63 -20 PN20
+22,RDKT6325,320,Đai khởi thủy hàn cắm phun PPR DN 63-25 PN20
+23,RDKT6332,300,Đai khởi thủy hàn cắm phun PPR DN 63-32 PN20
+24,RDKT7525,300,Đai khởi thủy hàn cắm phun PPR DN 75 -25 PN20
+25,RDKT7532,300,Đai khởi thủy hàn cắm phun PPR DN 75-32 PN20
+26,RDKT7540,180,Đai khởi thủy hàn cắm phun PPR DN 75 -40 PN20
+27,RDKT9020,400,Đai khởi thủy hàn cắm phun PPR DN 90-20 PN20
+28,RDKT9025,300,Đai khởi thủy hàn cắm phun PPR DN 90 -25 PN20
+29,RDKT9040,180,Đai khởi thủy hàn cắm phun PPR DN 90 -40 PN20
+30,ROT2OT20,210,ống tránh PPR DN 20 PN20
+31,ROT2OT25,120,ống tránh PPR DN 25 PN20
+32,RV20RV20,60,Van chặn phun PPR DN 20
+33,RV25RV25,60,Van chặn phun PPR DN 25
+34,RV32RV32,36,Van chặn phun PPR DN 32
+35,RV40RV40,20,Van chặn phun PPR DN 40
+36,RV50RV50,20,Van chặn phun PPR DN 50
+37,RVC2VC20,60,Van cửa phun PPR DN 20
+38,RVC2VC25,40,Van cửa phun PPR DN 25
+39,RVC3VC32,30,Van cửa phun PPR DN 32
+40,RVC4VC40,12,Van cửa phun PPR DN 40
+41,RVC5VC50,12,Van cửa phun PPR DN 50
+42,RVC6VC63,8,Van cửa phun PPR DN 63
+43,RZC22010,100,Zắc co phun PPR DN 20 PN10
+44,RZC22510,150,Zắc co phun PPR DN 25 PN10
+45,RZC33210,60,Zắc co phun PPR DN 32 PN10
+46,RZC4C408,40,Zắc co phun PPR DN 40 PN8
+47,RZC5C506,30,Zắc co phun PPR DN 50 PN6
+48,RZC6C636,18,Zắc co phun PPR DN 63 PN6
+49,RZRNRN20,90,-1/2 Zắcco ren ngoài phun PPR DN 20PN20
+50,RZRNRN25,30,-3/4 Zắcco ren ngoài phun PPR DN 25PN20
+51,RZRNRN32,30,Zắcco ren ngoài phun PPR DN 32-1PN20
+52,RZRNRN40,24,Zắcco ren ngoài phun PPR DN 40-1.1/4PN20
+53,RZRNRN50,12,-1.1/2 Zắcco ren ngoài phun PPR DN 50PN20
+54,RZRNRN63,12,Zắcco ren ngoài phun PPR DN 63-2PN20
+55,RZRTRT20,90,Zắcco ren trong phun PPR DN 20-1/2PN20
+56,RZRTRT25,30,Zắcco ren trong phun PPR DN 25-3/4PN20
+57,RZRTRT32,30,-1 Zắcco ren trong phun PPR DN 32PN20
+58,RZRTRT40,24,-1.1/4 Zắcco ren trong phun PPR DN 40PN20
+59,RZRTRT50,12,Zắcco ren trong phun PPR DN 50-1.1/2PN20
+60,RZRTRT63,12,Z ắcco ren trong phun PPR DN 63 -2PN20
+61,RL11L110,7,Nối góc 90độ phun PPR DN 110 PN20
+62,RL20RL20,280,Nối góc 90độ phun PPR DN 20 PN20
+63,RL25RL25,320,Nối góc 90độ phun PPR DN 25 PN20
+64,RL32RL32,160,Nối góc 90độ phun PPR DN 32 PN20
+65,RL40RL40,80,Nối góc 90độ phun PPR DN 40 PN20
+66,RL50RL50,48,Nối góc 90độ phun PPR DN 50 PN20
+67,RL63RL63,35,Nối góc 90độ phun PPR DN 63 PN20
+68,RL75RL75,25,Nối góc 90độ phun PPR DN 75 PN20
+69,RL90RL90,15,Nối góc 90độ phun PPR DN 90 PN20
+70,RLKR51/2,25,"Nối góc 90độ kép ren trong PPR DN 25 -1/2"" PN20"
+71,RLRNRN20,120,"Nối góc ren ngoài phun PPR DN 20-1/2""PN20"
+72,RLRNRN25,80,"Nối góc ren ngoài phun PPR DN 25-3/4""PN20"
+73,RLRN51/2,80,"-1/2"" Nối góc ren ngoài phun PPR DN 25PN20"
+74,RLRNRN32,40,"Nối góc ren ngoài phun PPR DN 32-1""PN20"
+75,RLRTRT20,150,"-1/2"" Nối góc ren trong phun PPR DN 20PN20"
+76,RLRTRT25,100,"Nối góc ren trong phun PPR DN 25-3/4""PN20"
+77,RLRT51/2,100,"-1/2"" Nối góc ren trong phun PPR DN 25PN20"
+78,RLRTRT32,40,-1'' Nối góc ren trong phun PPR DN 32PN20
+79,RLL1L110,10,Nối góc 45độ phun PPR DN 110 PN20
+80,RLL2LL20,300,Nối góc 45độ phun PPR DN 20 PN20
+81,RLL2LL25,400,Nối góc 45độ phun PPR DN 25 PN20
+82,RLL3LL32,240,Nối góc 45độ phun PPR DN 32 PN20
+83,RLL4LL40,90,Nối góc 45độ phun PPR DN 40 PN20
+84,RLL5LL50,60,Nối góc 45độ phun PPR DN 50 PN20
+85,RLL6LL63,50,Nối góc 45độ phun PPR DN 63 PN20
+86,RLL7LL75,30,Nối góc 45độ phun PPR DN 75 PN20
+87,RLL9LL90,20,Nối góc 45độ phun PPR DN 90 PN20
+88,RN11N110,18,Nối thẳng phun PPR DN 110 PN20
+89,RN20RN20,400,Nối thẳng phun PPR DN 20 PN20
+90,RN25RN25,480,Nối thẳng phun PPR DN 25 PN20
+91,RN32RN32,280,Nối thẳng phun PPR DN 32 PN20
+92,RN40RN40,160,Nối thẳng phun PPR DN 40 PN20
+93,RN50RN50,90,Nối thẳng phun PPR DN 50 PN20
+94,RN63RN63,70,Nối thẳng phun PPR DN 63 PN20
+95,RN75RN75,40,Nối thẳng phun PPR DN 75 PN20
+96,RN90RN90,28,Nối thẳng phun PPR DN 90 PN20
+97,RNC11050,16,Nối thẳng CB phun PPR DN 110-50PN20
+98,RNC11063,20,Nối thẳng CB phun PPR DN 110-63PN20
+99,RNC11075,20,Nối thẳng CB phun PPR DN 110-75PN20
+100,RNC11090,20,Nối thẳng CB phun PPR DN 110-90PN20
+101,RNC22520,280,Nối thẳng CB phun PPR DN 25-20 PN20
+102,RNC33220,360,Nối thẳng CB phun PPR DN 32-20 PN20
+103,RNC33225,300,Nối thẳng CB phun PPR DN 32 -25 PN20
+104,RNC44020,200,Nối thẳng CB phun PPR DN 40 -20 PN20
+105,RNC44025,200,Nối thẳng CB phun PPR DN 40-25 PN20
+106,RNC44032,180,Nối thẳng CB phun PPR DN 40 -32 PN20
+107,RNC55020,120,Nối thẳng CB phun PPR DN 50 -20 PN20
+108,RNC55025,120,Nối thẳng CB phun PPR DN 50-25 PN20
+109,RNC55032,120,Nối thẳng CB phun PPR DN 50 -32 PN20
+110,RNC55040,100,Nối thẳng CB phun PPR DN 50 -40 PN20
+111,RNC66325,100,Nối thẳng CB phun PPR DN 63-25 PN20
+112,RNC66332,100,Nối thẳng CB phun PPR DN 63-32 PN20
+113,RNC66340,80,Nối thẳng CB phun PPR DN 63 -40 PN20
+114,RNC66350,70,Nối thẳng CB phun PPR DN 63 -50 PN20
+115,RNC77532,60,Nối thẳng CB phun PPR ĐK 75-32 PN20
+116,RNC77540,60,Nối thẳng CB phun PPR DN 75-40 PN20
+117,RNC77550,60,Nối thẳng CB phun PPR DN 75-50 PN20
+118,RNC77563,60,Nối thẳng CB phun PPR DN 75 -63 PN20
+119,RNC99050,40,Nối thẳng CB phun PPR ĐK 90-50 PN20
+120,RNC99063,30,Nối thẳng CB phun PPR DN 90-63 PN20
+121,RNC99075,30,Nối thẳng CB phun PPR DN 90 -75 PN20
+122,RNRNN110,4,"-4"" Nối ren ngoài phun PPR ĐK 110PN20"
+123,RNRNRN20,150,"Nối thẳng ren ngoài phun PPR DN 20 -1/2""PN20"
+124,RNRNRN25,90,"Nối thẳng ren ngoài phun PPR DN 25-3/4""PN20"
+125,RNRN51/2,120,"Nối thẳng ren ngoài phun PPR DN 25 -1/2""PN20"
+126,RNRNRN32,40,Nối thẳng ren ngoài phun PPR DN32x1''PN20
+127,RNRNRN40,40,Nối thẳng ren ngoài phun PPR DN 40-1.1/4PN20
+128,RNRNRN50,40,"Nối thẳng ren ngoài phun PPR DN 50 -1.1/2"" PN20"
+129,RNRNRN63,15,Nối thẳng ren ngoài phun PPR DN 63x2''PN20
+130,RNRNRN75,8,"Nối thẳng ren ngoài phun PPR DN 75 -2.1/2"" PN20"
+131,RNRNRN90,6,"Nối thẳng ren ngoài phun PPR DN 90x3""PN20"
+132,RNRT1010,5,"Nối thẳng ren trong phun PPR DN 110 -4"" PN10"
+133,RNRTRT20,200,"Nối thẳng ren trong phun PPR DN 20 -1/2"" PN20"
+134,RNRTRT25,120,"Nối thẳng ren trong phun PPR DN 25-3/4"" PN20"
+135,RNRT51/2,150,"Nối thẳng ren trong phun PPR DN 25 -1/2"" PN20"
+136,RNRTRT32,40,"Nối thẳng ren trong phun PPR DN 32-1""PN20"
+137,RNRTRT40,40,"Nối thẳng ren trong phun PPR DN 40 -1.1/4"" PN20"
+138,RNRTRT50,40,"Nối thẳng ren trong phun PPR DN 50-1.1/2"" PN20"
+139,RNRTRT63,15,"Nối thẳng ren trong phun PPR DN 63-2""PN20"
+140,RNRTRT75,10,"75- Nối thẳng ren trong phun PPR DN2.1/2"" PN20"
+141,RNRTRT90,6,"Nối thẳng ren trong phun PPR DN 90-3""PN20"
+142,RT11T110,6,Ba chạc 90độ phun PPR DN 110 PN20
+143,RT20RT20,400,Ba chạc 90độ phun PPR DN 20 PN20
+144,RT25RT25,240,Ba chạc 90độ phun PPR DN 25 PN20
+145,RT32RT32,120,Ba chạc 90độ phun PPR DN 32 PN20
+146,RT40RT40,60,Ba chạc 90độ phun PPR DN 40 PN20
+147,RT50RT50,30,Ba chạc 90độ phun PPR DN 50 PN20
+148,RT63RT63,25,Ba chạc 90độ phun PPR DN 63 PN20
+149,RT75RT75,15,Ba chạc 90độ phun PPR DN 75 PN20
+150,RT90RT90,10,Ba chạc 90độ phun PPR DN 90 PN20
+151,RTC11063,9,Ba chạc 90độ CB phun PPR DN 110 -63PN20
+152,RTC11075,9,Ba chạc 90độ CB phun PPR N 110-75PN2
+153,RTC11090,8,-90 Ba chạc 90độ CB phun PPR DN 110PN20
+154,RTC22520,300,Ba chạc 90độ CB phun PPR DN 25-20PN20
+155,RTC33220,180,-20 Ba chạc 90độ CB phun PPR DN 32PN20
+156,RTC33225,150,-25 Ba chạc 90độ CB phun PPR DN 32PN20
+157,RTC44020,100,Ba chạc 90độ CB phun PPR DN 40-20PN20
+158,RTC44025,80,-25 Ba chạc 90độ CB phun PPR DN 40PN20
+159,RTC44032,80,Ba chạc 90độ CB phun PPR DN 40-32PN20
+160,RTC55020,64,-20 Ba chạc 90độ CB phun PPR DN 50PN20
+161,RTC55025,60,Ba chạc 90độ CB phun PPR DN 50-25PN20
+162,RTC55032,55,Ba chạc 90độ CB phun PPR DN 50-32PN20
+163,RTC55040,50,-40 Ba chạc 90độ CB phun PPR DN 50PN20
+164,RTC66325,50,Ba chạc 90độ CB phun PPR DN 63-25PN20
+165,RTC66332,50,-32 Ba chạc 90độ CB phun PPR DN 63PN20
+166,RTC66340,40,Ba chạc 90độ CB phun PPR DN 63-40PN20
+167,RTC66350,30,-50 Ba chạc 90độ CB phun PPR DN 63PN20
+168,RTC77532,35,-32 Ba chạc 90độ CB phun PPR DN 75PN20
+169,RTC77540,25,Ba chạc 90độ CB phun PPR DN 75-40PN20
+170,RTC77550,20,-50 Ba chạc 90độ CB phun PPR DN 75PN20
+171,RTC77563,20,Ba chạc 90độ CB phun PPR DN 75-63PN20
+172,RTC99050,15,-50 Ba chạc 90độ CB phun PPR DN 90PN20
+173,RTC99063,15,-63 Ba chạc 90độ CB phun PPR DN 90PN20
+174,RTC99075,12,-75 Ba chạc 90độ CB phun PPR DN 90PN20
+175,RTRNRN20,100,Ba chạc 90độ ren ngoài phun PPR DN20-1/2PN20
+176,RTRNRN25,60,Ba chạc 90độ ren ngoài phun PPR DN25-3/4 PN20
+177,RTRN51/2,60,Ba chạc 90độ ren ngoài phun PPR DN25-1/2 PN20
+178,RTRNRN32,40,Ba chạc 90độ ren ngoài phun PPR DN32-1PN20
+179,RTRTRT20,120,Ba chạc 90độ ren trong phun PPR DN20-1/2PN20
+180,RTRTRT25,60,Ba chạc 90độ ren trong phun PPR D 25-3/4 PN20
+181,RTRT51/2,80,Ba chạc 90độ ren trong phun PPR DN25-1/2 PN20
+182,RTRTRT32,40,Ba chạc 90độ ren trong phun PPR DN32-1 PN20
+183,RB50B50X,10,Bích nối ống phun PPR DN 50 PN20màu xanh
+184,RB90B90X,10,Bích nối ống phun PPR DN 90 PN20xanh
+185,RDB2B20X,600,Đầu bịt phun PPR DN 20 PN20 xanh
+186,RDB2B25X,360,Đầu bịt phun PPR DN 25 PN20 xanh
+187,RDB3B32X,400,Đầu bịt phun PPR DN 32 PN20 xanh
+188,RDB4B40X,300,Đầu bịt phun PPR DN 40 PN20 xanh
+189,RDB5B50X,120,Đầu bịt phun PPR DN 50 PN20 xanh
+190,ROT2T20X,210,Ống tránh phun PPR DN 20 PN20 xanh
+191,ROT2T25X,120,Ống tránh phun PPR DN 25 PN20 xanh
+192,RV20V20X,60,Van chặn phun PPR DN 20 xanh
+193,RV25V25X,60,Van chặn phun PPR DN 25 xanh
+194,RV32V32X,36,Van chặn phun PPR DN 32 xanh
+195,RV40V40X,20,Van chặn phun PPR DN 40 xanh
+196,RV50V50X,20,Van chặn phun PPR DN 50 xanh
+197,RVC2C20X,60,Van cửa phun PPR DN 20 xanh
+198,RVC2C25X,40,Van cửa phun PPR DN 25 xanh
+199,RVC3C32X,30,Van cửa phun PPR DN 32 xanh
+200,RVC4C40X,12,Van cửa phun PPR DN 40 xanh
+201,RVC5C50X,12,Van cửa phun PPR DN 50 xanh
+202,RVC6C63X,8,Van cửa phun PPR DN 63 màu xanh
+203,RZC2C20X,50,Zắc co phun PPR DN 20 PN10 xanh
+204,RZC2C25X,40,Zắc co phun PPR DN 25 PN10 xanh
+205,RZC3C32X,30,Zắc co phun PPR DN 32 PN10 xanh
+206,RZC4C40X,20,Zắc co phun PPR DN 40 PN8 xanh
+207,RZC5C50X,10,Zắc co phun PPR DN 50 PN6 xanh
+208,RZRNN20X,90,-1/2 Zắc co ren ngoài phun PPR DN 20PN20 xanh
+209,RZRNN25X,30,Zắc co ren PN20 xanh  ngoài phun PPR DN 25-3/4
+210,RZRNN32X,30,Zắc co ren ngoài phun PPR DN 32-1 PN20 xanh  -1
+211,RZRNN50X,24,"Zắc co ren ngoài phun PPR DN 50 -1.1/2"" PN20 xanh  "
+212,RZRTT20X,90,Zắc co ren trong phun PPR DN 20 PN20 xanh  -1/2
+213,RZRTT25X,30,Zắc co ren trong phun PPR DN 25-3/4PN20 xanh  
+214,RLL2L20X,300,Nối góc 45độ phun PPR DN 20  PN20
+215,RLL2L25X,400,Nối góc 45độ phun PPR DN 25  PN20
+216,RLL3L32X,240,Nối góc 45độ phun PPR xanh DN 32 PN20
+217,RLL4L40X,90,Nối góc 45độ phun PPR DN 40 PN20xanh  
+218,RLL5L50X,60,Nối góc 45độ phun PPR DN 50 PN20xanh  
+219,RLL6L63X,50,Nối góc 45độ phun PPR DN 63 PN20xanh  
+220,RLL7L75X,30,Nối góc 45độ phun PPR DN 75 PN20xanh  
+221,RL20L20X,280,Nối góc 90độ phun PPR DN 20  PN20
+222,RL25L25X,320,Nối góc 90độ phun PPR DN 25  PN20
+223,RL32L32X,160,Nối góc 90độ phun PPR DN 32  PN20
+224,RL40L40X,80,Nối góc 90độ phun PPR DN 40xanh  PN20
+225,RL50L50X,48,Nối góc 90độ phun PPR DN 50 PN20xanh  
+226,RL63L63X,35,Nối góc 90độ phun PPR DN 63 PN20xanh  
+227,RL75L75X,25,Nối góc 90độ phun PPR DN 75 PN20xanh  
+228,RL90L90X,15,Nối góc 90độ phun PPR DN 90 PN20xanh  
+229,RLRNN20X,120,"Nối góc ren ngoài phun PPR DN 201/2""PN20 xanh  -"
+230,RLRN1/2X,80,"Nối góc ren ngoài phun PPR DN 25-1/2""PN20 xanh  "
+231,RLRNN25X,80,"Nối góc ren ngoài phun PPR DN 25PN20 xanh  -3/4"""
+232,RLRTT20X,40,"Nối góc ren trong phun PPR DN 20-1/2""PN20 xanh  "
+233,RLRT1/2X,100,"Nối góc ren trong phun PPR DN 25PN20 xanh  -1/2"""
+234,RLRTT25X,120,Nối góc ren trong phun PPR DN 25PN20 xanh
+235,RLRTT32X,40,Nối góc ren trong phun PPR DN 32PN20 xanh
+236,RN20N20X,400,Nối thẳng phun PPR DN 20 PN20 xanh
+237,RN25N25X,480,Nối thẳng phun PPR DN 25 PN20 xanh
+238,RN32N32X,280,Nối thẳng phun PPR DN 32 PN20 xanh
+239,RN40N40X,160,Nối thẳng phun PPR DN 40 PN20 xanh
+240,RN50N50X,90,Nối thẳng phun PPR DN 50 PN20 xanh
+241,RN63N63X,70,Nối thẳng phun PPR DN 63 PN20 xanh
+242,RN75N75X,40,Nối thẳng phun PPR DN 75 PN20 xanh
+243,RNC2520X,280,Nối thẳng CB phun PPR DN 25-20PN20xanh
+244,RNC3220X,360,Nối thẳng CB phun PPR DNxanh
+245,RNC3225X,300,Nối thẳng CB phun PPR DN 32-25PN20 xanh
+246,RNC4020X,200,Nối thẳng CB phun PPR DN 40-20PN20 xanh
+247,RNC4025X,200,Nối thẳng CB phun PPR DN 40PN20 xanh
+248,RNC4032X,180,Nối thẳng CB phun PPR DN 40-32 PN20xanh
+249,RNC5020X,120,Nối thẳng CB phun PPR DN 50xanh
+250,RNC5025X,120,Nối thẳng CB phun PPR DN 50-25 PN20xanh
+251,RNC5032X,120,Nối thẳng CB phun PPR DN 50xanh
+252,RNC5040X,100,Nối thẳng CBxanh
+253,RNC6340X,80,Nối thẳng CB phun PPR DN 63-40 PN20xanh
+254,RNC6350X,70,Nối thẳng CB phun PPR DN 63xanh
+255,RNC7540X,60,Nối thẳng CB phun PPR DN 75-40 PN20xanh
+256,RNC7563X,60,Nối thẳng CBxanh
+257,RNC9075X,50,Nối thẳng CB phun PPR DN 90-75 PN20xanh
+258,RNRNN20X,150,"Nối thẳng ren ngoài1/2"" PN20 xanh"
+259,RNRN1/2X,120,Nối thẳng ren ngoài
+260,RNRNN25X,90,"Nối thẳng ren ngoài3/4"" PN20 xanh"
+261,RNRNN32X,40,Nối thẳng ren ngoài
+262,RNRNN40X,40,"Nối thẳng ren ngoài1.1/4"" PN20 xanh"
+263,RNRNN50X,40,Nối thẳng ren ngoài
+264,RNRNN63X,15,"Nối thẳng ren ngoài phun PPR DN 63 x2"" PN20 xanh"
+265,RNRTT20X,200,"- Nối thẳng ren trong phun PPR DN 201/2"" PN20 xanh"
+266,RNRT1/2X,150,"Nối thẳng ren trong phun PPR DN 25-1/2"" PN20 xanh"
+267,RNRTT25X,120,"- Nối thẳng ren trong phun PPR DN 253/4"" PN20 xanh"
+268,RNRTT32X,40,"Nối thẳng ren trong phun PPR DN 32-1""PN20 xanh"
+269,RNRTT40X,40,"Nối thẳng ren trong phun PPR DN 40-1.1/4"" PN20 xanh"
+270,RNRTT50X,40,"50- Nối thẳng ren trong phun PPR DN1.1/2"" PN20 xanh"
+271,RT20T20X,400,Ba chạc 90độ phun PPR DN 20 PN20xanh
+272,RT25T25X,240,Ba chạc 90độ phun PPR DN 25 PN20xanh
+273,RT32T32X,120,Ba chạc 90độ phun PPR DN 32 PN20xanh
+274,RT40T40X,60,Ba chạc 90độ phun PPR DN 40 PN20xanh
+275,RT50T50X,30,Ba chạc 90độ phun PPR DN 50 PN20xanh
+276,RT63T63X,25,Ba chạc 90độ phun PPR DN 63 PN20xanh
+277,RT75T75X,15,Ba chạc 90độ phun PPR DN 75 PN20xanh
+278,RTC2520X,300,Ba chạc 90độ CB phun PPR DN 25-20PN20xanh
+279,RTC3220X,180,-20 Ba chạc 90độ CB phun PPR DN 32P20 xanh
+280,RTC3225X,150,-25 Ba chạc 90độ CB phun PPR DN 32PN20xanh
+281,RTC4025X,80,Ba chạc 90độ CB phun PPR DN 40-25PN20 xanh
+282,RTC4032X,80,phun PPR DN 40-32 Ba chạc 90độ CBPN20 xanh
+283,RTC5025X,60,Ba chạc 90độ CB phun PPR DN 50-25PN20 xanh
+284,RTC5032X,55,-32 Ba chạc 90độ CB phun PPR DN 50PN20 xanh
+285,RTC5040X,50,Ba chạc 90độ CB phun PPR DN 50-40PN20 xanh
+286,RTC6516X,50,Ba chạc 90độ CB phun PPR DN 63-25PN16 xanh
+287,RTC6216X,50,-32 Ba chạc 90độ CB phun PPR DN 63PN16 xanh
+288,RTC6016X,40,-40 Ba chạc 90độ CB phun PPR DN 63PN16 xanh
+289,RTC6350X,30,-50 Ba chạc 90độ CB phun PPR DN 63PN20 màu xanh
+290,RTC7550X,20,-50 Ba chạc 90độ CB phun PPR DN 75PN20 màu xanh
+291,RTC7563X,20,-63 Ba chạc 90độ CB phun PPR DN 75PN20 màu xanh
+292,RTC9050X,15,Ba chạc 90độ CB phun PPR DN 90-50PN20 xanh
+293,RTRNN20X,10,Ba chạc 90độ ren ngoài phun PPR DN20-1/2 PN20 xanh
+294,RTRN1/2X,10,Ba chạc 90độ ren ngoài phun PPR DN25-1/2 PN20 xanh
+295,RTRNN25X,10,Ba chạc 90độ ren ngoài phun PPR DN25-3/4PN20 xanh
+296,RTRTT20X,120,Ba chạc 90độ ren trong phun PPR DN20-1/2 PN20 xanh
+297,RTRT1/2X,80,Ba chạc 90độ ren trong phun PPR DN25-1/2 PN20 xanh
+298,RTRTT25X,60,Ba chạc 90độ ren trong phun PPR DN25-3/4 PN20 xanh
+299,RTRTT32X,40,"Ba chạc 90độ ren trong phun PPR DN 32-1"" PN20 màu xanh"
+300,RL12L125,30,Nối góc 90độ phun PPR DN 125 PN20
+301,RL14L140,30,Nối góc 90độ phun PPR DN 140 PN20
+302,RL166016,20,Nối góc 90độ phun PPR DN 160 PN16
+303,RL200016,300,Nối góc 90độ phun PPR DN 200 PN16
+304,RN12N125,300,Nối thẳng phun PPR DN 125 PN20
+305,RN14N140,300,Nối thẳng phun PPR DN 140 PN20
+306,RN16N160,300,Nối thẳng phun PPR DN 160 PN20
+307,RN20N200,300,Nối thẳng phun PPR DN 200 PN20
+308,RNB1B125,300,Đầu nối bằng bích phun PPR DN 125PN20
+309,RNB1B140,300,Đầu nối bằng bích phun PPR DN 140PN20
+310,RNB14010,300,Đầu nối bằng bích phun PPR DN 140PN10
+311,RNB1B160,300,Đầu nối bằng bích phun PPR DN 160PN20
+312,RNB1B180,300,Đầu nối bằng bích phun PPR DN 180PN20
+313,RNB2B200,300,Đầu nối bằng bích phun PPR DN 200PN20
+314,RNB20010,300,Đầu nối bằng bích phun PPR DN 200PN10
+315,RNC15110,300,Nối thẳng CB phun PPR DN 125-110PN20
+316,RNC1110D,300,Nối thẳng CB phun PPR DN 140-110PN20
+317,RNC14090,300,Nối thẳng CB phun PPR DN 140-90PN20
+318,RNC10110,300,-110 Nối thẳng CB phun PPR DN 160PN20
+319,RNC10140,300,-140 Nối thẳng CB phun PPR DN 160PN20
+320,RNC20125,300,-125 Nối thẳng CB phun PPR DN 200PN20
+321,RT12T125,300,Ba chạc 90độ phun PPR DN 125 PN20
+322,RT14T140,300,Ba chạc 90độ phun PPR DN 140 PN20
+323,RT166016,300,Ba chạc 90độ phun PPR DN 160 PN16
+324,RTC14075,300,Ba chạc 90độ CB phun PPR DN 140 -75PN20
+325,RTC24016,300,Ba chạc 90độ CB phun PPR D 200-140PN16
+326,RUB5UB50,300,Bích nối ống phun PPR -UV DN 50 PN20
+327,RUDBDB20,600,Đầu bịt phun PPR-UV DN 20 PN20
+328,RUDBDB25,360,Đầu bịt phun PPR-UV DN 25 PN20
+329,RUDBDB32,400,Đầu bịt phun PPR -UV DN 32 PN20
+330,RUDBDB40,300,Đầu bịt phun PPR -UV DN 40 PN20
+331,RUDBDB50,120,Đầu bịt phun PPR-UV DN 50 PN20
+332,RUL2UL20,280,Nối góc 90độ phun PPR-UV DN 20PN20
+333,RUL2UL25,320,Nối góc 90độ phun PPR-UV DN 25PN20
+334,RUL3UL32,160,Nối góc 90độ phun PPR-UV DN 32PN20
+335,RUL4UL40,80,Nối góc 90độ phun PPR-UV DN 40PN20
+336,RUL5UL50,48,Nối góc 90độ phun PPR-UV DN 50PN20
+337,RUL6UL63,35,Nối góc 90độ phun PPR-UV DN 63PN20
+338,RULK51/2,25,"Nối góc 90độ kép ren trong PPR -UV DN25-1/2"" PN20"
+339,RULLLL20,300,Nối góc 45độ phun PPR-UV DN 20PN20
+340,RULLLL25,400,Nối góc 45độ phun PPR-UV DN 25PN20
+341,RULLLL32,240,Nối góc 45độ phun PPR-UV DN 32PN20
+342,RULLLL40,90,Nối góc 45độ phun PPR-UV DN 40PN20
+343,RULLLL50,60,-UV DN 50 Nối góc 45độ phun PPRPN20
+344,RULLLL63,50,-UV DN 63 Nối góc 45độ phun PPRPN20
+345,RULRRN20,50,"-UV Nối góc 90độ ren ngoài phun PPRDN20-1/2"" PN2"
+346,RULRRN25,50,"Nối góc 90độ ren ngoài phun PPR-UVDN 25-3/4"" PN20"
+347,RULR1/2D,50,"UV Nối góc 90độ ren ngoài phun PPRDN 25-1/2"" PN20"
+348,RULRRT20,150,"Nối góc 90độ ren trong phun PPR-UVDN 20-1/2"" PN20"
+349,RULRRT25,120,"Nối góc 90độ ren trong phun PPR-UVDN 25-3/4"" PN20"
+350,RULR51/2,100,"UV Nối góc 90độ ren trong phun PPRDN 25-1/2"" PN20"
+351,RUN2UN20,100,Nối thẳng phun PPR-UV DN 20 PN20
+352,RUN2UN25,100,Nối thẳng phun PPR -UV DN 25 PN20
+353,RUN3UN32,100,Nối thẳng phun PPR-UV DN 32 PN20
+354,RUN4UN40,100,Nối thẳng phun PPR -UV DN 40 PN20
+355,RUN5UN50,100,Nối thẳng phun PPR -UV DN 50 PN20
+356,RUN6UN63,100,Nối thẳng phun PPR -UV DN 63 PN20
+357,RUNC2520,280,Nối thẳng CB phun PPRPN20
+358,RUNC3220,360,Nối thẳng CB phun PPRPN20
+359,RUNC3225,300,Nối thẳng CB phun PPR-UV DN 32-25PN20
+360,RUNC4020,200,Nối thẳng CB phun PPRPN20
+361,RUNC4025,200,Nối thẳng CB phun PPR-UV DN 40-25PN20
+362,RUNC4032,180,Nối thẳng CB phun PPR-UV DN 40-32PN20
+363,RUNC5020,120,Nối thẳng CB phun PPRPN20
+364,RUNC5025,120,Nối thẳng CB phun PPR-UV DN 50-25PN20
+365,RUNC5032,120,Nối thẳng CB phun PPRPN20
+366,RUNC5040,100,Nối thẳng CB phun PPR-UV DN 50-40PN20
+367,RUNC6332,100,Nối thẳng CB phun PPRPN20
+368,RUNC6340,80,Nối thẳng CB phun PPRPN20
+369,RUNC6350,70,Nối thẳng CB phun PPR-UV DN 63-50PN20
+370,RUNRRN20,150,"Nối thẳng ren ngoài phun PPR201/2"" PN20"
+371,RUNRRN25,90,"Nối thẳng ren ngoài phun PPR-UV DN253/4"" PN20"
+372,RUNR1/2D,120,"Nối thẳng ren ngoài phun PPR25-1/2"" PN20"
+373,RUNRRN32,40,Nối thẳng ren ngoài32-1'' PN20
+374,RUNRRN40,40,Nối thẳng ren ngoài40-1.1/4'' PN20
+375,RUNRRN50,40,Nối thẳng ren ngoài50
+376,RUNRRN63,15,Nối thẳng ren ngoài63-2'' PN20
+377,RUNRRT20,200,"Nối thẳng ren trong phun PPR20-1/2"" PN20"
+378,RUNRRT25,120,"Nối thẳng ren trong phun PPR-UV DN25-3/4"" PN20"
+379,RUNR51/2,150,"Nối thẳng ren trong phun PPR25-1/2"" PN20"
+380,RUNRRT32,40,Nối thẳng ren trong phun PPR32-1'' PN20
+381,RUNRRT40,40,Nối thẳng ren trong phun PPR-UV DN40-1.1/4'' PN20
+382,RUNRRT50,40,Nối thẳng ren trong phun PPR50-1.1/2'' PN20
+383,RUNRRT63,15,Nối thẳng ren trong phun PPR-UV DN63-2'' PN20
+384,RUOT2020,210,Ống tránh phun PPR -UV DN 20 PN20
+385,RUOTOT25,120,Ống tránh phun PPR -UV DN 25 PN20
+386,RUT2UT20,400,-UV DN 20 Ba chạc 90độ phun PPRPN20
+387,RUT2UT25,240,-UV DN 25 Ba chạc 90độ phun PPRPN20
+388,RUT3UT32,120,-UV DN 32 Ba chạc 90độ phun PPRPN20
+389,RUT4UT40,60,-UV DN 40 Ba chạc 90độ phun PPRPN20
+390,RUT5UT50,30,-UV DN 50 Ba chạc 90độ phun PPRPN20
+391,RUT6UT63,25,Ba chạc 90độ phun PPR-UV DN 63PN20
+392,RUTC2520,280,Ba chạc 90độ CB phun PPR-UV DN 25-20PN20
+393,RUTC3220,180,Ba chạc 90độ CB phun PPR -UV DN 32-2PN20
+394,RUTC3225,150,Ba chạc 90độ CB phun PPR-UV DN 32-25PN20
+395,RUTC4020,100,Ba chạc 90độ CB phun PPR -UV DN 40-20PN20
+396,RUTC4025,80,Ba chạc 90độ CB phun PPR-UV DN 40-25PN20
+397,RUTC4032,80,Ba chạc 90độ CB phun PPR-UV DN 40-32 PN20
+398,RUTC5020,64,Ba chạc 90độ CB phun PPR -UV DN 50-20 PN20
+399,RUTC5025,60,Ba chạc 90độ CB phun PPR-UV DN 50-25 PN20
+400,RUTC5032,55,Ba chạc 90độ CB phun PPR -UV DN 50-32 PN20
+401,RUTC5040,50,Ba chạc 90độ CB phun PPR-UV DN 50-40 PN20
+402,RUTC6325,50,Ba chạc 90độ CB phun PPR -UV DN 63-25 PN20
+403,RUTC6332,50,Ba chạc 90độ CB phun PPR -UV DN 63-32 PN20
+404,RUTC6350,30,Ba chạc 90độ CB phun PPR-UV DN 63-50 PN20
+405,RUTRRN20,30,"UV Ba chạc 90độ ren ngoài phun PPRDN 20-1/2"" PN20"
+406,RUTRRN25,30,Ba chạc 90độ ren ngoài phun PPR-UVDN 25-3/4 PN20
+407,RUTR1/2D,30,"UV Ba chạc 90độ ren ngoài phun PPRDN 25-1/2"" PN20"
+408,RUTRRN32,40,"Ba chạc 90độ ren ngoài phun PPR-UVDN 32-1"" PN20"
+409,RUTRRT20,120,"Ba chạc 90độ ren trong phun PPR-UVDN 20-1/2"" PN20"
+410,RUTRRT25,60,-UV Ba chạc 90độ ren trong phun PPRDN 25-3/4 PN20
+411,RUTR51/2,80,"UV Ba chạc 90độ ren trong phun PPRDN 25-1/2"" PN20"
+412,RUV2UV20,60,Van chặn phun PPR -UV DN 20
+413,RUV2UV25,60,Van chặn phun PPR -UV DN 25
+414,RUV3UV32,36,Van chặn phun PPR -UV DN 32
+415,RUV4UV40,20,Van chặn phun PPR -UV DN 40
+416,RUV5UV50,20,Van chặn phun PPR-UV DN 50
+417,RUVCVC20,60,Van cửa phun PPR-UV DN 20
+418,RUVCVC25,40,Van cửa phun PPR -UV DN 25
+419,RUVCVC32,30,Van cửa phun PPR -UV DN 32
+420,RUVCVC40,12,Van cửa phun PPR-UV DN 40
+421,RUVCVC50,12,Van cửa phun PPR-UV DN 50
+422,RUVCVC63,8,Van cửa phun PPR -UV DN 63
+423,RUZCZC20,8,Zắc co phun PPR -UV DN 20
+424,RUZCZC25,8,Zắc co phun PPR-UV DN 25
+425,RUZCZC32,8,Zắc co phun PPR-UV DN 32
+426,RUZCZC40,8,Zắc co phun PPR -UV DN 40
+427,RUZCZC50,8,Zắc co phun PPR -UV DN 50
+428,RUZCZC63,8,Zắc co phun PPR-UV DN 63
+429,RUZRRN20,90,"Zắcco ren ngoài phun PPR-UV DN 20-1/2""PN20"
+430,RUZRRN25,30,"-UV DN 25- Zắcco ren ngoài phun PPR3/4"" PN20"
+431,RUZRRN32,30,"Zắcco ren ngoài phun PPR-UV DN 32-1""PN20"
+432,RUZRRN40,24,-UV DN 40- Zắcco ren ngoài phun PPR1.1/4 PN20
+433,RUZRRN63,12,"Zắc co ren ngoài phun PPR-UV DN 63 -2"" PN20"
+434,RUZRRT25,30,"Zắcco ren trong phun PPR-UV DN 25-3/4"" PN20"
