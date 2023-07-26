@@ -1,0 +1,41 @@
+\thispagestyle{empty}
+    \cleardoublepage
+
+ % CONTENT
+\tableofcontents 
+    \thispagestyle{empty}
+        \newpage
+            \thispagestyle{empty}
+                \cleardoublepage
+
+% LIST OF SYMBOLS AND ABBREVIATIONS
+\pagenumbering{roman}   % Roman numbering: i, ii, iii, iv,...
+\section*{LIST OF ACRONYMS}
+    \phantomsection \addcontentsline{toc}{section}{\numberline{} LIST OF ACRONYMS}
+
+% Create table
+\begin{tabular}{ l l }
+    \hspace{1cm} WMS & \hspace{2cm} Warehouse Management System    \\
+    \hspace{1cm} TPP & \hspace{2cm} Tien Phong Plastic Joint Stock Company \\
+    \hspace{1cm} RFID & \hspace{2cm} Radio Frequency Identification \\
+    \hspace{1cm} SQL & \hspace{2cm} Structured Query Language \\
+    \hspace{1cm} ABC  & \hspace{2cm} ABC Analysis \\
+    \hspace{1cm} SKU  & \hspace{2cm} Stock Keeping Unit \\
+\end{tabular}  
+    \newpage
+
+% LIST OF FIGURES
+{\let\oldnumberline\numberline
+    \renewcommand{\numberline}{Figure~\oldnumberline}
+        \listoffigures}
+            \phantomsection\addcontentsline{toc}{section}{\numberline{} LIST OF FIGURES}
+\newpage
+
+% LIST OF TABLES
+{\let\oldnumberline\numberline
+    \renewcommand{\numberline}{Table~\oldnumberline}
+        \listoftables}
+            \phantomsection\addcontentsline{toc}{section}{\numberline{} LIST OF TABLES}
+\newpage
+
+\pagenumbering{arabic} % numbering: 1,2,3,...

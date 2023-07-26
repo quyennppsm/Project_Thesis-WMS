@@ -1,0 +1,140 @@
+\documentclass{thesis}
+\usepackage[utf8]{inputenc} % 
+\usepackage[T5]{fontenc} % Font Vietnamese
+\usepackage{graphicx} % Figure
+\usepackage{float} % Set position figure or table
+\usepackage{mathptmx} % select font Times New Roman
+\usepackage{geometry} % Set parameters paper
+\usepackage{xcolor}
+\usepackage[fontsize=13pt]{scrextend} % set font size = 13pt
+\usepackage{indentfirst} % Indent first line
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+\usetikzlibrary{positioning}
+\usepackage{pgf-umlsd}
+
+%% FLOWCHART CONFIGURATION
+\input{src/config}
+
+%% START DOCUMENT
+\begin{document}
+
+% COVER PAGE
+\input{relevant/cover}
+
+% BLANK PAGE
+\input{src/blank}
+
+% THESIS TASK
+\input{relevant/task}
+                
+% THANKS
+\input{relevant/acknowledgement}
+
+% BLANK PAGE
+\input{src/blank}
+
+% SUMMARY
+\input{relevant/abstract}
+
+%% TOC
+\input{src/toc}
+
+%---------------------------------------------------------%%
+%% ----------CHAPTER 1-------------------%%
+%---------------------------------------------------------%%
+\section*{CHAPTER 1. INTRODUCTION} 
+    \addcontentsline{toc}{section}{\numberline{}CHAPTER 1. INTRODUCTION}
+
+\setcounter{section}{1} 
+    \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
+            \setcounter{paragraph}{0}
+                \setcounter{figure}{0}
+                    \setcounter{table}{0}
+                        \setcounter{equation}{0}
+%%--------------------------------------------------------
+\input{chapter/chapter1}
+
+%---------------------------------------------------------%%
+%% ----------CHAPTER 2-------------------%%
+%---------------------------------------------------------%%
+\section*{CHAPTER 2. OVERVIEW}
+    \addcontentsline{toc}{section}{\numberline{} CHAPTER 2. OVERVIEW}
+
+\setcounter{section}{2}
+    \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
+            \setcounter{paragraph}{0}
+                \setcounter{figure}{0}
+                    \setcounter{table}{0}
+                        \setcounter{equation}{0}
+%---------------------------------------------------------%
+\input{chapter/chapter2}
+
+%---------------------------------------------------------%%
+%% ----------CHAPTER 3-------------------%%
+%---------------------------------------------------------%%
+\section*{CHAPTER 3. MODELING}
+    \addcontentsline{toc}{section}{\numberline{}CHAPTER 3. MODELING}
+    
+\setcounter{section}{3}
+    \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
+            \setcounter{paragraph}{0}
+                \setcounter{figure}{0}
+                    \setcounter{table}{0}
+                        \setcounter{equation}{0}
+%%-------------------------------------------------------%%
+% --------------------------------------------------------%
+%---------------------------------------------------------%
+\input{chapter/chapter3}
+
+%---------------------------------------------------------%%
+%% ----------CHAPTER 4-------------------%%
+%---------------------------------------------------------%%
+\section*{CHAPTER 4. DESIGN}
+    \addcontentsline{toc}{section}{\numberline{} CHAPTER 4. DESIGN}
+    
+\setcounter{section}{4}
+    \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
+            \setcounter{paragraph}{0}
+                \setcounter{figure}{0}
+                    \setcounter{table}{0}
+                        \setcounter{equation}{0}
+%--------------------------------------------------------%
+\input{chapter/chapter4}
+
+%---------------------------------------------------------%%
+%% ----------CHAPTER 5-------------------%%
+%---------------------------------------------------------%%
+\section*{CHAPTER 5. SIMULATION}
+    \addcontentsline{toc}{section}{\numberline{} CHAPTER 5. SIMULATION}
+    
+\setcounter{section}{5}
+    \setcounter{subsection}{0}
+        \setcounter{subsubsection}{0}
+            \setcounter{paragraph}{0}
+                \setcounter{figure}{0}
+                    \setcounter{table}{0}
+                        \setcounter{equation}{0}
+%--------------------------------------------------------%
+\input{chapter/chapter5}
+
+%---------------------------------------------------------%%
+%% ----------END-------------------%%
+%---------------------------------------------------------%%
+
+% CONCLUSIONS
+\input{relevant/conclusion}
+
+% REFERENCES
+\input{relevant/references}
+
+% APPENDIX
+\input{relevant/appendix}
+
+%% END OF DOCUMENT
+\end{document}
