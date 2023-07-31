@@ -9,6 +9,7 @@
                 "-g",
                 "-I./lib",
                 "-I.C:/lib",
+                "-I.C:/lib/sqlite",
                 "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/${fileBasenameNoExtension}.cpp",
                 "-o",
                 "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/build/${fileBasenameNoExtension}.exe"
@@ -36,6 +37,7 @@
                 "-g",
                 "-I./lib",
                 "-I.C:/lib",
+                "-I.C:/lib/sqlite",
                 "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/${fileBasenameNoExtension}.c",
                 "-o",
                 "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/build/${fileBasenameNoExtension}.exe"
