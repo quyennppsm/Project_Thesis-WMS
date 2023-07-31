@@ -1,0 +1,57 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "C++ Build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-I./lib",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/${fileBasenameNoExtension}.cpp",
+                "-o",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/build/${fileBasenameNoExtension}.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+              "cwd": "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/"
+            },
+            "problemMatcher": "$gcc",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "C Build",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-g",
+                "-I./lib",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/${fileBasenameNoExtension}.c",
+                "-o",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/build/${fileBasenameNoExtension}.exe"
+            ],
+            "group": {
+            "kind": "build",
+            "isDefault": true
+            },
+            "options": {
+            "cwd": "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/"
+            },
+            "problemMatcher": "$gcc",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared"
+            }
+        }
+    ]
+}

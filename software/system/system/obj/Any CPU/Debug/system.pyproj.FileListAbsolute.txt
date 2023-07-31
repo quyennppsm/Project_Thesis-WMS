@@ -1,2 +1,0 @@
-C:\Users\magnu\OneDrive\Documents\GitHub\Project_Thesis-WMS\software\system\system\obj\Any CPU\Debug\system.pyproj.SuggestedBindingRedirects.cache
-C:\Users\magnu\OneDrive\Documents\GitHub\Project_Thesis-WMS\software\system\system\obj\Any CPU\Debug\system.pyproj.CoreCompileInputs.cache

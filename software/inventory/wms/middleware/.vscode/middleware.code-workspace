@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../csv"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"fstream": "cpp",
+			"vector": "cpp",
+			"sstream": "cpp",
+			"algorithm": "cpp",
+			"iosfwd": "cpp",
+			"chrono": "cpp",
+			"string.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "C++",
+            "includePath": [
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/lib/sqlite/**",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/lib/**",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:/lib/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        },
+        {
+            "name": "c",
+            "includePath": [
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/lib/sqlite/**",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/lib/**",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:/lib/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
