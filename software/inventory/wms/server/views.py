@@ -12,7 +12,7 @@ def home(request):
             'title': 'Home',
             'heading': 'Thesis Landing',
             'message': '"Belore`dorei, Andu-falah-dor!"',
-            'content': 'Grata pagina documenti...',
+            'content': 'Grata pagina documenti.....',
             'year':datetime.now().year,
         }
     )

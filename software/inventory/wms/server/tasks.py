@@ -23,5 +23,5 @@ from celery import shared_task
 @shared_task
 def run_import_task():
     print(f" summoning import.py")
-    subprocess.run(['python', 'controller/import.py'])
+    #subprocess.run(['python', 'controller/import.py'])
     return "[import.py]"

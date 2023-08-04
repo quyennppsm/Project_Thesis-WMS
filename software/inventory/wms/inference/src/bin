@@ -1,0 +1,25 @@
+
+# initialize arrays to store product data
+order_id = []
+order_code = []
+order_quantity = []
+order_receive = []
+order_despatch = []
+order_age = []
+
+cursor.execute('SELECT * FROM ' + db_order)
+order_rows = cursor.fetchall()
+for row in order_rows:
+    order_id.append(row[0])
+    order_code.append(row[1])
+    order_quantity.append(int(row[2]))
+    order_receive.append(datetime.datetime.strptime(row[3], '%Y-%m-%d'))
+    order_despatch.append(datetime.datetime.strptime(row[4], '%Y-%m-%d'))
+    order_age.append(int(row[5]))
+
+order_id = np.array(order_id)
+order_code = np.array(order_code)
+order_quantity = np.array(order_quantity)
+order_receive = np.array(order_receive)
+order_despatch = np.array(order_despatch)
+order_age = np.array(order_age)

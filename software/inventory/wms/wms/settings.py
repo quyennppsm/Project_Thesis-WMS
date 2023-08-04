@@ -20,7 +20,7 @@ CELERY_RESULT_BACKEND = 'django-db'
 CELERY_BEAT_SCHEDULE = {
     'Task_celery' : {
         'task': 'server.tasks.task_celery',
-        'schedule': 60,
+        'schedule': 30,
     },
     'Task_layout' : {
         'task': 'server.tasks.task_csv_layout',
@@ -28,7 +28,11 @@ CELERY_BEAT_SCHEDULE = {
     },
     'Task_import' : {
         'task': 'server.tasks.run_import_task',
-        'schedule': 60,
+        'schedule': crontab(minute=55, hour=23),
+    },
+    'Task_fuzzy' : {
+        'task': 'controller.tasks.task_fuzzy',
+        'schedule': 120,
     }
 }
 
@@ -47,6 +51,7 @@ INSTALLED_APPS = [
     'server',
     'controller',
     'django_celery_results',
+    'matplotlib',
     # Add your apps here to enable them
     'django.contrib.admin',
     'django.contrib.auth',

@@ -6,7 +6,7 @@
                 "C:/lib/**",
                 "C:/lib/sqlite/**",
                 "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/lib/**",
-                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/**",
+                "C:/Users/magnu/OneDrive/Documents/GitHub/Project_Thesis-WMS/software/inventory/wms/middleware/src/**"
             ],
             "defines": [],
             "compilerPath": "C:/lib/mingw64/bin/gcc.exe",

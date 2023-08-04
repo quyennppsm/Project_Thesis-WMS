@@ -1,9 +1,49 @@
 from django.db import models
-from datetime import datetime
+
+class Order(models.Model):
+    id = models.IntegerField(primary_key=True)
+    order_code = models.CharField(unique=True, max_length=10)
+    number_of_different_product = models.IntegerField()
+    received_timestamp = models.TextField()
+    despatch_timestamp = models.TextField()
+    order_time = models.IntegerField()
+    def __str__(self):
+        return self.order_code
+
+class Carrier(models.Model):
+    id = models.IntegerField(primary_key=True)
+    order_code = models.CharField(max_length=10)
+    carrier_code = models.CharField(unique=True, max_length=20)
+    product_code = models.CharField(max_length=8)
+    stored_timestamp = models.TextField()
+    despatch_timestamp = models.TextField()
+    shelf_age = models.IntegerField()
+    def __str__(self):
+        return self.carrier_code
+
+class Statistic(models.Model):
+    id = models.IntegerField(primary_key=True)
+    product_code = models.CharField(unique=True, max_length=20)
+    total_carrier = models.PositiveBigIntegerField()
+    total_shelf_age = models.PositiveBigIntegerField()
+    total_cost = models.PositiveBigIntegerField()
+    total_price = models.PositiveBigIntegerField()
+    total_wage = models.PositiveBigIntegerField()
+    total_order = models.PositiveBigIntegerField()
+    total_different_day_timestamp = models.IntegerField()
+    maximum_demand = models.IntegerField()
+    average_demand = models.FloatField()
+    minimum_demand = models.IntegerField()
+    maximum_flow = models.IntegerField()
+    average_flow = models.PositiveBigIntegerField()
+    minimum_flow = models.IntegerField()
+    frequency = models.FloatField()
+    def __str__(self):
+        return self.product_code
 
 class Layout(models.Model):
     id = models.IntegerField(primary_key=True)
-    identification = models.CharField(unique=True, max_length = 6)
+    identification = models.CharField(unique=True, max_length=6)
     floor = models.CharField(max_length=1)
     section = models.CharField(max_length=1)
     location = models.CharField(max_length=1)

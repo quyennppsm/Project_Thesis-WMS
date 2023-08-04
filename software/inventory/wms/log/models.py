@@ -15,6 +15,7 @@ class  LogCarrier(models.Model):
     receive = models.BooleanField(default=1)
     despatch = models.BooleanField(default=0)
     timestamp = models.DateTimeField(default=datetime.now())
+    timedespatch = models.DateTimeField(default=datetime.now())
     coordinate = models.CharField(max_length=6)
     product = models.CharField(max_length=8)
     order = models.CharField(max_length=20)

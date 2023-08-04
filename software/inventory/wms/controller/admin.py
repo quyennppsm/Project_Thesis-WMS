@@ -1,5 +1,5 @@
 from django.contrib import admin
-from controller.models import Layout, Slot, Product
+from controller.models import Layout, Slot, Product, Order, Carrier
 from log.models import LogCarrier, LogOrder
 
 class ControllerAdminSite(admin.AdminSite):
@@ -16,5 +16,5 @@ controller_admin_site = ControllerAdminSite(name='controller_admin')
 controller_admin_site.register(Layout, LayoutOption)
 controller_admin_site.register(Slot)
 controller_admin_site.register(Product)
-controller_admin_site.register(LogCarrier)
-controller_admin_site.register(LogOrder)
+controller_admin_site.register(Order)
+controller_admin_site.register(Carrier)
