@@ -79,5 +79,6 @@ for i in range(carrier_id.size):
         carrier_shelf_age
     )
     carrier_data.append(carrier_line)
+    print(carrier_data)
     cursor.executemany('INSERT INTO controller_statisticC VALUES (?, ?, ?, ?, ?, ?, ?)', carrier_data)
-    print(carrier_data, "\n")
+    
