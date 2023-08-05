@@ -16,8 +16,6 @@ db_data = "db_data"
 db_statistic = "db_statistic"
 db_all_statistic = "db_all_statistic"
 
-print("d")
-
 # Connect to the database (or create it if it doesn't exist)
 conn = sqlite3.connect(db_file_name)
 cursor = conn.cursor()
@@ -33,6 +31,7 @@ carrier_shelf_age = []
 
 cursor.execute('SELECT * FROM ' + db_data)
 carrier_rows = cursor.fetchall()
+conn.close()
 
 for row in carrier_rows:
     carrier_id.append(row[0])
@@ -51,20 +50,20 @@ carrier_stored_timestamp = np.array(carrier_stored_timestamp)
 carrier_despatch_timestamp = np.array(carrier_despatch_timestamp)
 carrier_shelf_age = np.array(carrier_shelf_age)
 
-print(carrier_shelf_age)
 
-conn = sqlite3.connect(import_file_name)
-cursor = conn.cursor()
-cursor.execute('''CREATE TABLE IF NOT EXISTS controller_carrier (
+
+conne = sqlite3.connect(import_file_name)
+cursors = conne.cursor()
+cursors.execute('''CREATE TABLE IF NOT EXISTS controller_carrier (
                 id INTEGER PRIMARY KEY,
                 order_code TEXT,
                 carrier_code TEXT,
                 product_code TEXT,
                 stored_timestamp TEXT,
                 despatch_timestamp TEXT,
-                shelf_age INTEGER
+                shelf_age TEXT
                )''')
-cursor.execute('DELETE FROM controller_carrier')
+cursors.execute('DELETE FROM controller_carrier')
 
 
 for i in range(carrier_id.size):
@@ -80,5 +79,7 @@ for i in range(carrier_id.size):
     )
     carrier_data.append(carrier_line)
     print(carrier_data)
-    cursor.executemany('INSERT INTO controller_statisticC VALUES (?, ?, ?, ?, ?, ?, ?)', carrier_data)
+    cursors.executemany('INSERT INTO controller_carrier VALUES (?, ?, ?, ?, ?, ?, ?)', carrier_data)
     
+conne.commit()
+conne.close()
